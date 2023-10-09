@@ -83,7 +83,7 @@ def main():
 
     # Sidebar menu
     st.sidebar.title('About the App Developer')
-    st.sidebar.markdown('<p class="branding">Deepak Nadipelly S</p>', unsafe_allow_html=True)
+    st.sidebar.markdown('<p class="branding">Deepak Nadipelly</p>', unsafe_allow_html=True)
     st.sidebar.markdown('<p class="branding">Contact Information:</p>', unsafe_allow_html=True)
     st.sidebar.markdown('[LinkedIn Profile](https://www.linkedin.com/in/deepaknadipelly/)', unsafe_allow_html=True)
     st.sidebar.markdown('GitHub Account: [DeepakNadipelly](https://github.com/DeepakNadipelly)')
