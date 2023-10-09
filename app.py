@@ -83,11 +83,11 @@ def main():
 
     # Sidebar menu
     st.sidebar.title('About the App Developer')
-    st.sidebar.markdown('<p class="branding">Mohammed Farooq basha S</p>', unsafe_allow_html=True)
+    st.sidebar.markdown('<p class="branding">Deepak Nadipelly S</p>', unsafe_allow_html=True)
     st.sidebar.markdown('<p class="branding">Contact Information:</p>', unsafe_allow_html=True)
-    st.sidebar.markdown('[LinkedIn Profile](https://www.linkedin.com/farooq-basha)', unsafe_allow_html=True)
-    st.sidebar.markdown('GitHub Account: [Farooqbasha008](https://github.com/Farooqbasha008)')
-    st.sidebar.markdown('Email: sfarooq8.fb@gmail.com')
+    st.sidebar.markdown('[LinkedIn Profile](https://www.linkedin.com/in/deepaknadipelly/)', unsafe_allow_html=True)
+    st.sidebar.markdown('GitHub Account: [DeepakNadipelly](https://github.com/DeepakNadipelly)')
+    st.sidebar.markdown('Email: nadipelly.d@northeastern.edu')
 
     # App description and instructions
     st.markdown('<p class="sidebar-header">About the App</p>', unsafe_allow_html=True)
